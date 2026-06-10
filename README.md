@@ -1,6 +1,6 @@
 # Swag Labs E2E Automation Project
 
-This project contains automated end-to-end tests for the [Swag Labs demo website](https://www.saucedemo.com/), implemented using **WebdriverIO** and the **Page Object Model (POM)** design pattern.
+This project contains automated end-to-end tests for the [Swag Labs website](https://www.saucedemo.com/), implemented using **WebdriverIO** and the **Page Object Model (POM)** design pattern.
 
 ## Project Structure
 - `test/pageobjects/`: Contains the page classes that model the website structure for better maintainability.
